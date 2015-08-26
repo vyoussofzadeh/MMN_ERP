@@ -1,0 +1,4 @@
+1) set path the GCCA toolbox (http://www.sussex.ac.uk/sackler/mvgc/) into your Matlab routine 
+2) Run the Demo_PGC_CGC_SpectralGC.m
+
+
